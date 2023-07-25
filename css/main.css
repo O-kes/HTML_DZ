@@ -1,0 +1,11 @@
+body {
+    background: url(img/Lake_Ladoga_view_from_Oreshek_Fortess.jpg) no-repeat 0 100% fixed,
+        linear-gradient(to top, #5080b1, #004e8c) fixed;
+    background-size: 100%;
+    color: #fff;
+
+}
+h1 {
+    color:#090544;
+    text-align: center;
+}
